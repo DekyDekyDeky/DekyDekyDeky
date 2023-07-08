@@ -21,8 +21,13 @@ Neste perfil você poderá encontrar...
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DekyDekyDeky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k7ggmfuugx6r67fkbhqzn4src4" alt="Sublime's custom image"/>
+</p>
+
 ## Contato 📞
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@MondlichtRicky) 
+
 
 ![](https://media.tenor.com/KVXBYKd3YZAAAAAS/cat-dance.gif)
 
