@@ -15,6 +15,8 @@ Neste perfil você poderá encontrar...
 ## Contato 📞
 **Twitter** @MondlichtRicky
 
+![](https://media.tenor.com/KVXBYKd3YZAAAAAS/cat-dance.gif)
+
 
 <!--
 **DekyDekyDeky/DekyDekyDeky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
